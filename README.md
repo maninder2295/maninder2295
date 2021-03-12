@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @maninder2295
 - 👀 I’m interested in Python, Machine Learning, Designing
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python  
 - 📫 How to reach me, You can mail me at manindersingh2295@gmail.com
 
 <!---
